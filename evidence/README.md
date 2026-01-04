@@ -1,26 +1,22 @@
 # Social Engineering Writeups
 
-This repository contains two ethically simulated social engineering exercises for a cybersecurity assignment: **Quid Pro Quo** and **Pretexting**.  
-All interactions were conducted with consent, and no real credentials or sensitive data were collected.  
-Evidence screenshots are anonymized and included below.
+This repository contains two simulated social engineering exercises for a cybersecurity assignment: **Quid Pro Quo** and **Pretexting**.  
+All interactions were conducted ethically, with consent, and no real credentials or sensitive data were collected.
 
 ---
 
 ## Exercise 1: Quid Pro Quo
 
 ### Objective
-Demonstrate how offering a benefit (e.g., study notes) can pressure someone into sharing access or information.
+Demonstrate how offering a benefit can influence someone to share access or information.
 
 ### Scenario
-I offered lecture notes to a peer and requested a dummy login or guest folder to simulate how attackers exploit reciprocity.
+I offered lecture notes to a peer and requested a dummy login or guest folder in return. This simulated how attackers exploit reciprocity.
 
 ### Execution
 - Sent a message offering helpful resources.
-- Requested a simulated access method in return.
-- Received a polite rejection, showing awareness.
-
-### Evidence
-![Quid Pro Quo Evidence](Social-Engineering-Writeups/evidence/qq-evidence-1.jpeg)
+- Requested a simulated access method.
+- Received a polite rejection, indicating awareness.
 
 ### Reflection
 - Strengths: Reciprocity bias can lower defenses.
@@ -32,18 +28,15 @@ I offered lecture notes to a peer and requested a dummy login or guest folder to
 ## Exercise 2: Pretexting
 
 ### Objective
-Simulate how attackers use fabricated roles (e.g., IT support) to elicit information.
+Simulate how attackers use fabricated roles to elicit information.
 
 ### Scenario
-I posed as a university IT helper and asked for a student ID to “verify access.”
+I posed as IT support and asked for a student ID to “verify access.” The target declined, citing no login issues.
 
 ### Execution
 - Crafted a neutral IT-style message.
 - Requested a dummy student ID.
-- Target declined, citing no login issues.
-
-### Evidence
-![Pretexting Evidence](Social-Engineering-Writeups/evidence/pretext-evidence-1.jpeg)
+- Received a response rejecting the request.
 
 ### Reflection
 - Strengths: Authority cues can prompt compliance.
