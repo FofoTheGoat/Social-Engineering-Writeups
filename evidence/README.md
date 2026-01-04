@@ -20,7 +20,7 @@ I offered lecture notes to a peer and requested a dummy login or guest folder to
 - Received a polite rejection, showing awareness.
 
 ### Evidence
-![Quid Pro Quo Evidence](../evidence/qq-evidence-1.jpeg)
+![Quid Pro Quo Evidence](Social-Engineering-Writeups/evidence/qq-evidence-1.jpeg)
 
 ### Reflection
 - Strengths: Reciprocity bias can lower defenses.
@@ -43,7 +43,7 @@ I posed as a university IT helper and asked for a student ID to “verify access
 - Target declined, citing no login issues.
 
 ### Evidence
-![Pretexting Evidence](../evidence/pretext-evidence-1.jpeg)
+![Pretexting Evidence](Social-Engineering-Writeups/evidence/pretext-evidence-1.jpeg)
 
 ### Reflection
 - Strengths: Authority cues can prompt compliance.
