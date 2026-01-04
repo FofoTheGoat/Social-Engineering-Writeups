@@ -6,55 +6,55 @@ Evidence screenshots are anonymized and included below.
 
 ---
 
-## 🧪 Exercise 1: Quid Pro Quo
+## Exercise 1: Quid Pro Quo
 
-### 🎯 Objective
+### Objective
 Demonstrate how offering a benefit (e.g., study notes) can pressure someone into sharing access or information.
 
-### 🧠 Scenario
+### Scenario
 I offered lecture notes to a peer and requested a dummy login or guest folder to simulate how attackers exploit reciprocity.
 
-### 🛠️ Execution
+### Execution
 - Sent a message offering helpful resources.
 - Requested a simulated access method in return.
 - Received a polite rejection, showing awareness.
 
-### 🖼️ Evidence
+### Evidence
 ![Quid Pro Quo Evidence](../evidence/qq-evidence-1.jpeg)
 
-### 🔍 Reflection
-- **Strengths:** Reciprocity bias can lower defenses.
-- **Weaknesses:** Security-aware individuals resist exchange-based requests.
-- **Lesson learned:** Clear sharing policies and public links reduce risk.
+### Reflection
+- Strengths: Reciprocity bias can lower defenses.
+- Weaknesses: Security-aware individuals resist exchange-based requests.
+- Lesson learned: Clear sharing policies and public links reduce risk.
 
 ---
 
-## 🧪 Exercise 2: Pretexting
+## Exercise 2: Pretexting
 
-### 🎯 Objective
+### Objective
 Simulate how attackers use fabricated roles (e.g., IT support) to elicit information.
 
-### 🧠 Scenario
+### Scenario
 I posed as a university IT helper and asked for a student ID to “verify access.”
 
-### 🛠️ Execution
+### Execution
 - Crafted a neutral IT-style message.
 - Requested a dummy student ID.
 - Target declined, citing no login issues.
 
-### 🖼️ Evidence
+### Evidence
 ![Pretexting Evidence](../evidence/pretext-evidence-1.jpeg)
 
-### 🔍 Reflection
-- **Strengths:** Authority cues can prompt compliance.
-- **Weaknesses:** Verification culture blocks pretexts.
-- **Lesson learned:** Always confirm identity via official channels.
+### Reflection
+- Strengths: Authority cues can prompt compliance.
+- Weaknesses: Verification culture blocks pretexts.
+- Lesson learned: Always confirm identity via official channels.
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
-These exercises highlight how attackers exploit **trust, reciprocity, and authority**.  
+These exercises highlight how attackers exploit trust, reciprocity, and authority.  
 Defensive strategies include:
 - Verification-first culture.
 - Clear sharing protocols.
